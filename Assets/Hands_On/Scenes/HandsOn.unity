@@ -735,7 +735,7 @@ Transform:
   m_GameObject: {fileID: 633930750}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 1}
-  m_LocalScale: {x: 70.32909, y: 125, z: 0}
+  m_LocalScale: {x: 70.36083, y: 125, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -1613,9 +1613,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1521693839}
-  - component: {fileID: 1521693838}
   - component: {fileID: 1521693840}
   - component: {fileID: 1521693841}
+  - component: {fileID: 1521693838}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -1632,13 +1632,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1521693837}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 240b50fa1919d4e279c9a44cc6637f50, type: 3}
+  m_Script: {fileID: 11500000, guid: 2842a5e9e31bf45f9835e279ad06ef85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Block: {fileID: 3915513555964944062, guid: c84c0b0e5946e4b1b97b4b87d46156f5, type: 3}
-  BlockContainer: {fileID: 5088987}
-  InitialSpawnNumber: 60
-  FeverSpawnNumber: 40
 --- !u!4 &1521693839
 Transform:
   m_ObjectHideFlags: 0
@@ -1986,7 +1982,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1521693838}
+      - m_Target: {fileID: 0}
         m_MethodName: SpawnManyTimes
         m_Mode: 1
         m_Arguments:
