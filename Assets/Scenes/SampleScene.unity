@@ -365,7 +365,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: -1087661657
+  m_SortingLayerID: -119879063
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &242477086
@@ -735,7 +735,7 @@ Transform:
   m_GameObject: {fileID: 633930750}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 1}
-  m_LocalScale: {x: 70.32909, y: 125, z: 0}
+  m_LocalScale: {x: 70.366135, y: 125, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -2187,7 +2187,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: -137063701
+  m_SortingLayerID: -767896835
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &2144977081
